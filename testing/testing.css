@@ -10,9 +10,17 @@
 }
 .t3{
     text-align: center;
+    border: 10px solid black;
+    border-width: 20px;
+    border-radius: 5px;
+    box-shadow: 10px 10px;
+    
 }
 body{
     background-image: url(ct.jpg);
     background-repeat: no-repeat;
     background-position: top right;
+    /* height: 50px; */
+    /* width: 50px; */
+    /* background-size: 150px 200px; */
 }
