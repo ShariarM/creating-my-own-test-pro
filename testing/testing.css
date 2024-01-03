@@ -1,4 +1,18 @@
+*{
+    /* background-color: blueviolet; */
+}
 #t2{
     text-align: center;
     font-style: italic;
+    color: brown;
+    font-size: 105px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.t3{
+    text-align: center;
+}
+body{
+    background-image: url(ct.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
 }
